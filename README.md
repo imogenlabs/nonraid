@@ -1,3 +1,8 @@
+> **This fork is the source of the nonraid driver that ships in Eight.ly OS.**
+> It is licensed GPL-2.0, the same as upstream [qvr/nonraid](https://github.com/qvr/nonraid).
+> Each Eight.ly OS release that ships the driver is tagged here as `eightly-<release>`.
+> That tag is the exact source the release was built from.
+
 # NonRAID - unRAID storage array compatible kernel driver
 
 ![nmdctl status screenshot](images/status_screenshot.png?raw=true "NonRAID nmdctl")
